@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/gei/Documentos/Cursos/Java/Completo/Leonardo Leitão/.metadata/.plugins/org.eclipse.jdt.core
+3189021885.index
+3534571186.index

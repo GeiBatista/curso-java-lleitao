@@ -1,0 +1,23 @@
+package lambdas;
+
+public class CalculoTest1 {
+
+	public static void main(String[] args) {
+
+		//Implementação simples
+		Calculo soma = new Somar();
+		System.out.println(soma.executar(2, 3));
+		
+		Calculo multiplicacao = new Multiplicar();
+		System.out.println(multiplicacao.executar(2, 3));
+		
+		
+		//Usando polimorfismo
+		Calculo calculo = new Somar();		
+		System.out.println(calculo.executar(2, 3));
+		
+		calculo = new Multiplicar();		
+		System.out.println(calculo.executar(2, 3));
+	}
+
+}
