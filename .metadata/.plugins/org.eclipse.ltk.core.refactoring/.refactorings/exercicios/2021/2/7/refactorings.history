@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Map.java&apos; to &apos;exercicios/src/streams&apos;&#x0A;- Original project: &apos;exercicios&apos;&#x0A;- Destination element: &apos;exercicios/src/streams&apos;&#x0A;- Original element: &apos;lambdas.Map.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;streams" element1="/src&lt;lambdas{Map.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1612700720082" units="1" version="1.0"/>
+</session>
