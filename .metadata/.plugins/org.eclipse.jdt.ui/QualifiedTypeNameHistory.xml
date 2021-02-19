@@ -32,8 +32,11 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
     <fullyQualifiedTypeName name="br.com.mrbartista.cm.excecao.ExplosaoException"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.function.Predicate"/>
     <fullyQualifiedTypeName name="br.com.mrbartista.cm.modelo.Tabuleiro"/>
     <fullyQualifiedTypeName name="br.com.mrbartista.cm.visao.TabuleiroConsole"/>
+    <fullyQualifiedTypeName name="generics.CaixaObjeto"/>
+    <fullyQualifiedTypeName name="generics.CaixaInt"/>
+    <fullyQualifiedTypeName name="generics.Caixa"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>
