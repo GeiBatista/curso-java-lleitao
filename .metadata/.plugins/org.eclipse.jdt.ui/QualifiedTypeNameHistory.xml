@@ -22,8 +22,6 @@
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="streams.Media"/>
     <fullyQualifiedTypeName name="java.util.function.Function"/>
-    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.lang.Throwable"/>
     <fullyQualifiedTypeName name="java.lang.RuntimeException"/>
@@ -31,4 +29,11 @@
     <fullyQualifiedTypeName name="excecao.Aluno"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
     <fullyQualifiedTypeName name="excecao.personalizadaA.StringVaziaException"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="br.com.mrbartista.cm.excecao.ExplosaoException"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.function.Predicate"/>
+    <fullyQualifiedTypeName name="br.com.mrbartista.cm.modelo.Tabuleiro"/>
+    <fullyQualifiedTypeName name="br.com.mrbartista.cm.visao.TabuleiroConsole"/>
 </qualifiedTypeNameHistroy>
