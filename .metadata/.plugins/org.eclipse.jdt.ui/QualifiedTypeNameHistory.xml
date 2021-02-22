@@ -38,5 +38,14 @@
     <fullyQualifiedTypeName name="generics.CaixaObjeto"/>
     <fullyQualifiedTypeName name="generics.CaixaInt"/>
     <fullyQualifiedTypeName name="generics.Caixa"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="padroes.observer.ObservadorChegadaAniversariante"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="padroes.observer.EventoChegadaAniversariante"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="padroes.observer.Namorada"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
 </qualifiedTypeNameHistroy>
