@@ -48,7 +48,7 @@
     <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
     <fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
     <fullyQualifiedTypeName name="br.com.mrbartista.cm.modelo.CampoObservador"/>
-    <fullyQualifiedTypeName name="br.com.mrbartista.cm.modelo.CampoEvento"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="br.com.mrbartista.cm.modelo.ResultadoEvento"/>
+    <fullyQualifiedTypeName name="br.com.mrbartista.cm.modelo.CampoEvento"/>
 </qualifiedTypeNameHistroy>
